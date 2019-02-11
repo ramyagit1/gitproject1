@@ -1,0 +1,9 @@
+ cat 
+ mat
+ sat
+ hat
+ jat
+ lot
+ pot
+ ot
+
